@@ -1,0 +1,141 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav
+{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+}
+.logo
+{
+    height: 60px;
+    width: 10%;
+    float: left;
+
+}
+.logo img
+{
+    height: 60px;
+    width: 100%;
+}
+.companyname
+{
+    height: 60px;
+    width: 90%;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+    color:white;
+
+}
+.homecontent
+{
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    line-height: 60px;
+}
+.banner
+{
+    height: 400px;
+    width: 80%;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 20px;
+}
+.banner img
+{
+    height: 400px;
+    width: 100%;
+    border-radius: 20px;
+    line-height: 400px;
+}
+.gallerycontent
+{
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    line-height: 60px;
+}
+.images
+{
+    height: 350px;
+    width: 80%;
+    margin: auto;
+
+}
+.images .box1
+{
+    height: 300px;
+    width: 23%;
+     background-color: black;
+     float: left;
+     margin: 25px 1%;
+     border-radius: 30px;
+}
+.box1 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+}
+.images .box2
+{
+    height: 300px;
+    width: 23%;
+     background-color: rebeccapurple;
+     float: left;
+     margin: 25px 1%;
+     border-radius: 30px;
+
+
+}
+.box2 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+}
+.images .box3
+{
+    height: 300px;
+    width: 23%;
+     background-color: beige;
+     float: left;
+     margin: 25px 1%;
+     border-radius: 30px;
+
+
+}
+.box3 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+}
+.images .box4
+{
+    height: 300px;
+    width: 23%;
+     background-color: yellow;
+     float: left;
+     margin: 25px 1%;
+     border-radius: 30px;
+
+
+}
+.box4 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+}
+h3
+{
+    text-align: center;
+    padding: 30px;
+}
