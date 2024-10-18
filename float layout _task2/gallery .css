@@ -1,0 +1,180 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav
+{
+    float: left;
+    height: 60px;
+    width: 100%;
+    background-color:#071c33;
+}
+table
+{
+    margin-left: 10%;
+    float: left;
+
+}
+table a
+{
+    padding-left: 50px;
+    color: white;
+    font-family: montserrat;
+    text-decoration: none;
+    line-height: 60px;
+} 
+input
+{
+    float: left;
+    height: 40px;
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 25%;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+}
+.gobox
+{
+    height: 9px;
+    width: 60px;
+    background-color: red;
+    line-height: 60px;
+    padding: 11px 25px 11px 25px;
+    color: white;
+    font-family: montserrat;
+    font-weight: bold;
+    text-decoration: none;
+}
+.related
+{
+    height:82vh;
+    width: 25%;
+    background-color: rgb(255, 177, 177);
+    float: right;
+
+}
+.related h1
+{
+    font-family: montserrat;
+    margin-left: 140px;
+    margin-top: 43px;
+    color: black;
+}
+.relatedinfo
+{
+    height: 200px;
+    width: 30%;
+    color:white;
+    margin-top: 100px;
+    width: 100%;
+    padding-left: 80px;
+}
+.Gallery
+{
+    height: auto;
+    width: 75%;
+    text-align: center;
+    
+}
+.Gallery h1
+{
+    font-family: montserrat;
+    padding-top: 90px;
+}
+.Gallery h6
+{
+    font-family: montserrat;
+}
+.images
+{
+    height:310px;
+    width:65%;
+    margin-left: 5%;
+}
+table .img1
+{
+    height: 300px;
+    width: 250px;
+}
+.img1 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100%);
+
+    transition: 0.5s;
+}
+img:hover
+{
+    filter: grayscale(0%);
+    
+}
+table .img2
+{
+    height: 300px;
+    width: 250px;
+}
+.img2 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100%);
+
+    transition: 0.5s;
+}
+.img2 :hover
+{
+    filter: grayscale(0%);
+    
+}
+table .img3
+{
+    height: 300px;
+    width: 250px;
+
+}
+.img3 img
+{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100%);
+
+    transition: 0.5s;
+}
+.img3 :hover
+{
+    filter: grayscale(0%);
+    
+}
+p
+{
+    text-align: center;
+    width: 100%;
+    font-size: small;
+    font-family: montserrat;
+}
+.copy
+{
+    height: 64px;
+    width: 100%;
+    background-color: #071c33;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 95%;
+    left: 50%;
+    
+}
+span
+{
+    color: white;
+    font-family: montserrat;
+    font-size: smaller;
+    line-height: 64px;
+    margin-left: 150px;
+}

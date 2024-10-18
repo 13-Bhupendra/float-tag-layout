@@ -1,0 +1,90 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav
+{
+    float: left;
+    height: 60px;
+    width: 100%;
+    background-color:#071c33;
+}
+table
+{
+    margin-left: 10%;
+    float: left;
+
+}
+table a
+{
+    padding-left: 50px;
+    color: white;
+    font-family: montserrat;
+    text-decoration: none;
+    line-height: 60px;
+} 
+input
+{
+    float: left;
+    height: 40px;
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 15%;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+}
+.gobox
+{
+    height: 9px;
+    width: 60px;
+    background-color: red;
+    line-height: 60px;
+    padding: 11px 25px 11px 25px;
+    color: white;
+    font-family: montserrat;
+    font-weight: bold;
+    text-decoration: none;
+}
+.related
+{
+    height:82vh;
+    width: 25%;
+    background-color: rgb(255, 177, 177);
+    float: right;
+
+}
+.related h1
+{
+    font-family: montserrat;
+    margin-left: 140px;
+    margin-top: 25px;
+    color: black;
+}
+.relatedinfo
+{
+    height: 200px;
+    width: 30%;
+    color:white;
+    margin-top: 100px;
+    width: 100%;
+    padding-left: 80px;
+}
+.Gallery
+{
+    height: auto;
+    width: 75%;
+    text-align: center;
+    
+}
+.Awards h1
+{
+    font-family: montserrat;
+    padding-top: 90px;
+}
+.Awards h6
+{
+    font-family: montserrat;
+}
