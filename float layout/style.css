@@ -82,6 +82,13 @@ nav
     height: 300px;
     width: 100%;
     border-radius: 30px;
+    filter: grayscale(100%);
+
+    transition: 0.5s;
+}
+img:hover
+{
+    filter: grayscale(0%);
 }
 .images .box2
 {
@@ -91,8 +98,14 @@ nav
      float: left;
      margin: 25px 1%;
      border-radius: 30px;
+     filter: grayscale(100%);
 
+     transition: 0.5s;
 
+}
+.box2:hover
+{
+    filter: grayscale(0%);
 }
 .box2 img
 {
@@ -108,8 +121,15 @@ nav
      float: left;
      margin: 25px 1%;
      border-radius: 30px;
+     filter: grayscale(100%);
+
+     transition: 0.5s;
 
 
+}
+.box3:hover
+{
+    filter: grayscale(0%);
 }
 .box3 img
 {
@@ -125,8 +145,16 @@ nav
      float: left;
      margin: 25px 1%;
      border-radius: 30px;
+     filter: grayscale(100%);
+
+    transition: 0.5s;
 
 
+
+}
+.box4:hover
+{
+    filter: grayscale(0%);
 }
 .box4 img
 {
